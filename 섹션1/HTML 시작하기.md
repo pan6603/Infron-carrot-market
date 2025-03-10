@@ -31,7 +31,7 @@
 
 
 
-### 📌 강의 내용 정리
+### 📌 메모 정리
 + <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development">mdn 사이트</a> 참고하기
 + <a href="https://code.visualstudio.com/">VsCode</a>툴 설치하기
 + body는 웹 화면에 보여줄 수 있는 컨텐츠이다.
