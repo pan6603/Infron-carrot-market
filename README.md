@@ -8,3 +8,4 @@
 
 ### 섹션 2. CSS 기본 다지기 
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(with%20%EC%84%A0%ED%83%9D%EC%9E%90).md">CSS 시작하기 (with 선택자)</a>
++ <a href="">CSS 연결 방법 및 복습</a>
