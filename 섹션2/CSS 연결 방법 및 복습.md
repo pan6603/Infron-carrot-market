@@ -35,7 +35,7 @@ HTML 태그 안에 직접 style 속성을 이용해서 스타일을 적용하는
 <p style="color: red;">안녕하세요!</p>
 ```
 
-
+### 실습 코드
 
 2_index.html
 ```
