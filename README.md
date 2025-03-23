@@ -9,4 +9,4 @@
 ### 섹션 2. CSS 기본 다지기 
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%20(with%20%EC%84%A0%ED%83%9D%EC%9E%90).md">CSS 시작하기 (with 선택자)</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%20%EC%97%B0%EA%B2%B0%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EB%B3%B5%EC%8A%B5.md">CSS 연결 방법 및 복습</a>
-+ <a href="">CSS의 상속과 우선순위</a>
++ <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%EC%9D%98%20%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md">CSS의 상속과 우선순위</a>
