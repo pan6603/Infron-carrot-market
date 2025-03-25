@@ -11,4 +11,4 @@
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%20%EC%97%B0%EA%B2%B0%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EB%B3%B5%EC%8A%B5.md">CSS 연결 방법 및 복습</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/CSS%EC%9D%98%20%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md">CSS의 상속과 우선순위</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%EC%84%A0%ED%83%9D%EC%9E%90%20%EC%A0%95%EB%A6%AC.md">선택자 정리</a>
-+ <a href="">box 모델 (block 속성 vs inline 속성)</a>
++ <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/box%20%EB%AA%A8%EB%8D%B8%20(block%20%EC%86%8D%EC%84%B1%20vs%20inline%20%EC%86%8D%EC%84%B1).md">box 모델 (block 속성 vs inline 속성)</a>
