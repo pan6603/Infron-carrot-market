@@ -2,7 +2,7 @@
 
 + 박스 모델은 Content → Padding → Border → Margin 순서로 구성
 + 기본적으로 width와 height는 content 크기만 포함
-+ box-sizing: border-box;을 사용하면 전체 크기를 고정할 수 있어 유용함!
++ box-sizing: border-box;을 사용하면 전체 크기를 고정할 수 있어 유용하다.
 
 
 4_box_model.html
