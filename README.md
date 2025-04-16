@@ -17,4 +17,4 @@
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%EB%B0%B0%EA%B2%BD%EA%B3%BC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%EA%BE%B8%EB%AF%B8%EA%B8%B0.md">배경과 테두리 꾸미기</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%EC%BD%98%ED%85%90%EC%B8%A0%EA%B0%80%20%EB%84%98%EC%B9%98%EB%8A%94%20overflow.md">콘텐츠가 넘치는 overflow</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/css%EC%9D%98%20%EB%8B%A8%EC%9C%84.md">css의 단위</a>
-+ <a href="">항목 크기 지정하기</a>
++ <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%ED%95%AD%EB%AA%A9%20%ED%81%AC%EA%B8%B0%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md">항목 크기 지정하기</a>
