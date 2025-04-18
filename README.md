@@ -19,3 +19,6 @@
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/css%EC%9D%98%20%EB%8B%A8%EC%9C%84.md">css의 단위</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%ED%95%AD%EB%AA%A9%20%ED%81%AC%EA%B8%B0%20%EC%A7%80%EC%A0%95%ED%95%98%EA%B8%B0.md">항목 크기 지정하기</a>
 + <a href="https://github.com/pan6603/Infron-carrot-market/blob/main/%EC%84%B9%EC%85%982/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EA%B8%B0%20%26%20form%20%ED%83%9C%EA%B7%B8.md">이미지 크기 & form 태그</a>
+
+### 섹션 3. CSS 텍스트 다루기
++ <a href="">폰트 스타일링</a>
